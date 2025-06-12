@@ -78,7 +78,7 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 ## Site Images
 **Login:**
 
-![Screenshot (84)](https://github.com/AnuPriyaPulagam/LMS/assets/101879714/5287bb3e-32b3-4d07-b430-30d9f0f8c511)
+![Image](https://github.com/user-attachments/assets/2b474583-9956-4cdd-8ea9-6c41b736baf1)
 
 
 
